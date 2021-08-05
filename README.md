@@ -17,5 +17,5 @@
 
 <center><h3>Contact</h3></center>
 
-<center><a href ="https://sites.google.com/view/yeongjucv/%ED%99%88" target ="blank"></a><img src="https://img.shields.io/badge/Google Site-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://polyglot-programming.tistory.com/" target="blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a></center>
+<center><a href ="https://sites.google.com/view/yeongjucv/%ED%99%88" target ="blank"><img src="https://img.shields.io/badge/Google Site-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://polyglot-programming.tistory.com/" target="blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a></center>
 
