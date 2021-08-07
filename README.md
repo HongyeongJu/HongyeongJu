@@ -4,8 +4,7 @@
 
 ## <center>Tech stack</center>
 
-# [알고리즘 공부 기록](https://github.com/HongyeongJu/algorithm/tree/main/HYJ)
-# [TIL](https://github.com/HongyeongJu/TIL)
+[알고리즘 공부 기록](https://github.com/HongyeongJu/algorithm/tree/main/HYJ) ,  [TIL](https://github.com/HongyeongJu/TIL)
 
 <center>🔨Techs I have used at least once🔨</center>
 
