@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.Net&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><img src="https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=Unreal Engine&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-412991?style=flat-square&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/OpenGL-5C3EE8?style=flat-square&logo=OpenGL&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white"/><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
+:star: GitHub Stats        |  :fire: BOJ Stats
+:-------------------------:|:-------------------------:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyeongJu&show_icons=true&theme=radical)   |  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abc123472000)](https://solved.ac/abc123472000)
+
 
 <center><h3>Contact</h3></center>
 
